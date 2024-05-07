@@ -1,0 +1,18 @@
+/* Footer.css */
+.footer {
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+}
+
+.social-media-links i {
+    margin: 0 10px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.social-media-links i:hover {
+    color: #ddd;
+}

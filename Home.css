@@ -1,0 +1,45 @@
+/* Home.css */
+.home {
+    padding: 20px;
+    text-align: center;
+}
+
+.showcase {
+    margin-top: 20px;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.showcase .img-box {
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.showcase .text-box {
+    color: #333;
+}
+
+.showcase h2 {
+    color: #333;
+}
+
+.showcase p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,33 @@
+/* Header.css */
+.navbar {
+    background-color: #0044cc;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .logo {
+    font-size: 24px;
+}
+
+.nav-items {
+    list-style: none;
+    padding: 0;
+}
+
+.nav-item {
+    display: inline;
+    margin-left: 20px;
+}
+
+.nav-item a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.nav-item a:hover {
+    color: #ffdd00;
+}
